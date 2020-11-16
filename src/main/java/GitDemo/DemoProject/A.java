@@ -6,5 +6,8 @@ public class A
    {
 	   System.out.println(a+b+c);
    }
-
+   public void mulValue(int x, int y)
+   {
+	   System.out.println(x*y);
+   }
 }
