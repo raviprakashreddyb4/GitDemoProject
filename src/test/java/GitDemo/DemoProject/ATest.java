@@ -9,5 +9,6 @@ public class ATest
     {
     	A a=new A();
     	a.sumValue(20, 10);
+    	
     }
 }
