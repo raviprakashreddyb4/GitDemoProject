@@ -14,4 +14,8 @@ public class A
    {
 	   System.out.println(x-y);
    }
+   public void printName()
+   {
+	   System.out.println("Ravi");
+   }
 }
