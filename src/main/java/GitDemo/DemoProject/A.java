@@ -2,9 +2,9 @@ package GitDemo.DemoProject;
 
 public class A 
 {
-   public void sumValue(int a, int b, int c)
+   public void sumValue(int a, int b)
    {
-	   System.out.println(a+b+c);
+	   System.out.println(a+b);
    }
    public void mulValue(int x, int y)
    {
